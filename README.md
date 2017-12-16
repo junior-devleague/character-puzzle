@@ -147,3 +147,5 @@ var puzzle1 {
 BONUS: Create a function for the object that does all the checking!  
 
 2. Create a points variable that will store points starting with 100. Every time a piece has disappeared, decrease the points by 1! Show the user their points on the page.
+
+3. Make the piece that's being taken away fade off of the page.
