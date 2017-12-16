@@ -15,6 +15,16 @@ To complete this project, students should have the following:
 * Basic understanding of Flexbox.
 * Intermediate understanding of JavaScript and DOM (Math Methods, Append Child, Functions)
 
+## Concepts
+
+JS | Description
+-- | -----------
+Math.random() | Math method that returns a random decimal number between 0 and 1.
+document.body.scrollHeight | Returns the entire height of the body.
+document.body.scrollWidth | Returns the entire width of the body.
+setInterval(referenceToFunc, timeInMilliSeconds) | Sets an interval to execute the function passed in every so many milliseconds as specified.
+element.style.property="value" | Used to change a CSS property in JavaScript.
+
 ## Your Challenge
 
 ### Part I
