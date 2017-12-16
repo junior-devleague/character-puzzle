@@ -130,10 +130,10 @@ window.onload = function() {
 ## Stretch Goals
 
 1. Keep the game going! After the user has successfully, done the first puzzle, give them another one! After the user has successfully finished the first puzzle:
-  1. Set the container's background-image property to another image.
-  2. Call the generatePieces function to generate pieces.
-  3. Reset the interval.  
-  4. Check if the input is the correct answer!
+  * Set the container's background-image property to another image.
+  * Call the generatePieces function to generate pieces.
+  * Reset the interval.  
+  * Check if the input is the correct answer!
 
 *Hint: You may want to use objects to help organize this as follows:*
 
