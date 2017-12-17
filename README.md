@@ -24,6 +24,8 @@ document.body.scrollHeight | Returns the entire height of the body.
 document.body.scrollWidth | Returns the entire width of the body.
 setInterval(referenceToFunc, timeInMilliSeconds) | Sets an interval to execute the function passed in every so many milliseconds as specified.
 element.style.property="value" | Used to change a CSS property in JavaScript.
+parent.appendChild(child); | Used to add a new element onto an element.
+document.createElement('element') | Used to create an element using JavaScript.
 
 ## Your Challenge
 
